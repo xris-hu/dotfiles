@@ -1,0 +1,6 @@
+[
+	{ "keys": ["f12"], "command": "goto_definition" },
+	{ "keys": ["ctrl+]"], "command": "jump_forward" },
+	{ "keys": ["ctrl+o"], "command": "jump_back" },
+	{ "keys": ["ctrl+j"], "command": "godef" },
+]

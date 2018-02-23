@@ -1,0 +1,23 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"default_line_ending": "unix",
+	"font_face": "Courier New",
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"overlay_scroll_bars": "enabled",
+	// "theme": "Default.sublime-theme"
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"material_theme_small_tab"                : true ,
+	// "overlay_scroll_bars"          : "enabled",
+	 "update_check": false,//disable auto update
+	 "preview_on_click": false,//open file in new tab
+}

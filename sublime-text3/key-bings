@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+j"], "command": "godef" },
+	{ "keys": ["ctrl+o"], "command": "jump_back" },
+]

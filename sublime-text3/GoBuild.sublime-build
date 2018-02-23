@@ -1,0 +1,8 @@
+ {
+     "cmd": ["go","run", "${file}"],
+     "path": "/usr/local/go/bin",
+     "env": {
+         "GOPATH": "/home/xxx/go",
+         "GOROOT": "/usr/local/go"
+     },
+ }

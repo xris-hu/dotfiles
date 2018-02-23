@@ -1,0 +1,17 @@
+[
+	{ "keys": ["ctrl+j"], "command": "godef" },
+	// { "keys": ["ctrl+j"], "command": "godef" },
+	// { "keys": ["ctrl+o"], "command": "jump_back"},
+	{ "keys": ["ctrl+o"], "command": "jump_back"},
+	{ "keys": ["ctrl+shift+f"], "command": "show_panel", "args": {"panel": "find_in_files"} },
+	{ "keys": ["ctrl+f"], "command": "show_panel", "args": {"panel": "find", "reverse": false} },
+	{ "keys": ["ctrl+p"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+	{ "keys": ["ctrl+r"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} },
+	{ "keys": ["ctrl+s"], "command": "save" },
+	{ "keys": ["ctrl+z"], "command": "undo" },
+	{ "keys": ["ctrl+x"], "command": "cut" },
+	{ "keys": ["ctrl+c"], "command": "copy" },
+	{ "keys": ["ctrl+v"], "command": "paste" },
+	{ "keys": ["ctrl+t"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+	{ "keys": ["ctrl+a"], "command": "select_all" },
+]

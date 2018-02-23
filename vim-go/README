@@ -1,0 +1,19 @@
+vim IDE for go 
+
+====ctags for go ====
+1: apt-get install ctags
+2: ctags -f $GOPATH/src/.gotags-R $GOPATH/go/src 
+3: put below configure 
+:set tags=~/go/src/.gotags
+to .vimrc 
+
+====vundle===
+https://github.com/VundleVim/Vundle.vim
+=====vim-go
+https://github.com/fatih/vim-go
+===auto code complement
+https://github.com/Valloric/YouCompleteMe
+====gotags
+https://github.com/jstemmer/gotags
+===tagbar
+https://github.com/majutsushi/tagbar
