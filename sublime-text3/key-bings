@@ -1,4 +1,7 @@
 [
 	{ "keys": ["ctrl+j"], "command": "godef" },
+	{ "keys": ["ctrl+j"], "command": "goto_definition" },
 	{ "keys": ["ctrl+o"], "command": "jump_back" },
+	{ "keys": ["ctrl+shift+d"], "command": "duplicate_line" },
+
 ]
